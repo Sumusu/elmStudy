@@ -3,4 +3,7 @@ elm-stuff
 # elm-repl generated files
 repl-temp-*
 
+# 毎度除外するのが面倒なので、一旦index.htmlをignoreに追加する。
+index.html
+
 node_modules/
